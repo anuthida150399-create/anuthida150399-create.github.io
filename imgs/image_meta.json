@@ -1,0 +1,808 @@
+[
+  {
+    "query": "Minimalist AI company website, black and white, clean typography, subtle earth elements, sophisticated technology feel, uiux design",
+    "image_info": {
+      "url": "https://prompthero.ai/wp-content/uploads/2023/03/image-49-1024x585.png",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 477266,
+      "width": 1024,
+      "height": 585,
+      "total_pixels": 599040,
+      "basic_score": 0.9039203875889937,
+      "file_name": "minimalist-black-and-white-website-ui-concept.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly executes the 'minimalist black and white' requirement with a sophisticated, editorial-style UI. It displays four distinct layout variations that effectively combine earth elements (landscapes) with a modern tech aesthetic. The typography, while gibberish (typical of AI generation), demonstrates excellent spacing and hierarchy suitable for a high-end web design concept.",
+      "file_name": "minimalist-black-and-white-website-ui-concept.jpg",
+      "caption": "A composite grid showing four concept designs for a minimalist AI company website, featuring a stark black and white color scheme, sophisticated typography, and atmospheric nature photography integrated into clean UI layouts.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Minimalist AI company website, black and white, clean typography, subtle earth elements, sophisticated technology feel, uiux design",
+    "image_info": {
+      "url": "https://prompthero.ai/wp-content/uploads/2023/03/image-47-1024x1024.png",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 1015004,
+      "width": 1024,
+      "height": 1024,
+      "total_pixels": 1048576,
+      "basic_score": 0.9504132975976889,
+      "file_name": "minimalist-black-and-white-ai-website-ui-concepts.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image provides four distinct, high-quality interpretations of the prompt, perfectly capturing the 'minimalist', 'black and white', and 'sophisticated' requirements. The layouts demonstrate strong UI/UX principles with clean whitespace and modern aesthetics. The inclusion of subtle nature/earth elements in the hero images aligns well with the prompt. The text is AI-generated placeholder text (pseudotext), which is expected for concept art but limits immediate textual use.",
+      "file_name": "minimalist-black-and-white-ai-website-ui-concepts.jpg",
+      "caption": "A 2x2 grid displaying four variations of a sophisticated, minimalist black and white website interface design for an AI company, featuring clean typography and abstract environmental imagery.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Minimalist AI company website, black and white, clean typography, subtle earth elements, sophisticated technology feel, uiux design",
+    "image_info": {
+      "url": "https://static.wixstatic.com/media/38148a_6fb6024d485d4538975aa56d8117dff2~mv2.png/v1/fill/w_980,h_663,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/38148a_6fb6024d485d4538975aa56d8117dff2~mv2.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 184256,
+      "width": 980,
+      "height": 663,
+      "total_pixels": 649740,
+      "basic_score": 0.8920070960286194,
+      "file_name": "minimalist-dark-mode-ui-web-design.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 88.0,
+      "explanation": "The image captures the 'minimalist', 'black and white', and 'sophisticated UI' aspects of the query perfectly. While the specific text refers to a designer portfolio rather than an AI company, the visual aesthetic—dark mode, clean sans-serif typography, and abstract data-like wave lines—is highly applicable to the requested technology/AI look.",
+      "file_name": "minimalist-dark-mode-ui-web-design.jpg",
+      "caption": "A sophisticated dark-mode website hero section featuring bold, white sans-serif typography and subtle, abstract wave lines on a black background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Minimalist AI company website, black and white, clean typography, subtle earth elements, sophisticated technology feel, uiux design",
+    "image_info": {
+      "url": "https://prompthero.ai/wp-content/uploads/2023/03/image-53.png",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 1405367,
+      "width": 1568,
+      "height": 896,
+      "total_pixels": 1404928,
+      "basic_score": 0.8943010264586282,
+      "file_name": "minimalist-monochrome-ai-website-ui-design-concept.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image strongly matches the search query and prompt, featuring a sophisticated black and white color scheme and a minimalist UI layout typical of modern tech branding. The atmospheric landscape background aligns perfectly with the 'subtle earth elements' request. The text is AI-generated placeholder content, which is expected in concept art but limits immediate usability without editing.",
+      "file_name": "minimalist-monochrome-ai-website-ui-design-concept.jpg",
+      "caption": "A sophisticated black and white website landing page concept featuring a moody mountain landscape, clean typography, and a minimalist user interface designed for an AI technology company.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Official website design for AI company, dark theme, black white gray colors, 3D rotating earth in hero section, futuristic UI, 3d render, high quality, trending on artstation",
+    "image_info": {
+      "url": "https://designmodo.com/wp-content/uploads/2018/08/2-Launch-It.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 81810,
+      "width": 1200,
+      "height": 585,
+      "total_pixels": 702000,
+      "basic_score": 0.8818840484677838,
+      "file_name": "futuristic-dark-mode-3d-earth-ui-hero.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 60.0,
+      "watermark_score": 100.0,
+      "overall_score": 70.0,
+      "explanation": "The image strongly matches the concept of a futuristic, dark-mode hero section with a 3D earth element and HUD interfaces. However, the resolution is relatively low with visible compression artifacts, and the color palette deviates from the requested monochrome (black/white/gray) by including prominent blue and red neon accents.",
+      "file_name": "futuristic-dark-mode-3d-earth-ui-hero.jpg",
+      "caption": "A futuristic dark-themed website hero interface featuring a rotating 3D globe with red data visualizations and blue HUD elements, set against a starry background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Dark mode futuristic interface, AI technology, holographic earth wireframe, glowing elements, black and dark gray, cyberpunk but professional",
+    "image_info": {
+      "url": "https://cdn.dribbble.com/userupload/44003812/file/original-1f9e9f4ec1d15ad77f5ada9bedfbc578.png?resize=752x&vertical=center",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 426827,
+      "width": 752,
+      "height": 564,
+      "total_pixels": 424128,
+      "basic_score": 0.8578649304373596,
+      "file_name": "futuristic-ai-dark-mode-website-interface-design.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 70.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image strongly matches the 'futuristic AI website interface' and 'dark mode' aspects of the query, featuring a professional UI design with high-quality robotic imagery. However, it lacks the specific 'holographic earth' element requested in the prompt, featuring a cyborg head instead.",
+      "file_name": "futuristic-ai-dark-mode-website-interface-design.jpg",
+      "caption": "A sleek, dark-mode website interface design for an AI technology platform named 'Xenovate', featuring a detailed 3D robotic head profile with neon blue accents, service metrics, pricing tiers, and modern typography.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Glassmorphism personal portfolio website, soft blue gradients, frosted glass cards, modern UI UX design, white and light gray theme",
+    "image_info": {
+      "url": "https://cdn.dribbble.com/userupload/30256117/file/original-f1b37ca011505bd43df4e1189e3f08a0.png?resize=400x0",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 112635,
+      "width": 400,
+      "height": 300,
+      "total_pixels": 120000,
+      "basic_score": 0.7217365455796168,
+      "file_name": "glassmorphism-portfolio-ui-design-blue-gradient.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a clear example of glassmorphism UI design. The color palette consists of the requested soft blue gradients and white tones. The content represents a personal portfolio (skills section), and the layout is modern and clean. There are no distracting watermarks.",
+      "file_name": "glassmorphism-portfolio-ui-design-blue-gradient.jpg",
+      "caption": "A modern Glassmorphism UI design concept for a personal portfolio website featuring a frosted glass card layout, skill progress bars, and a profile section set against a soft blue gradient background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Glassmorphism personal portfolio website, soft blue gradients, frosted glass cards, modern UI UX design, white and light gray theme",
+    "image_info": {
+      "url": "https://sundewsolutions.com/storage/blogs/sundew_blog_1718169673.webp",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 45436,
+      "width": 1306,
+      "height": 476,
+      "total_pixels": 621656,
+      "basic_score": 0.8335731493542297,
+      "file_name": "glassmorphism-ui-liquid-gradient-banner.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 75.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image perfectly illustrates the 'glassmorphism' effect and 'modern UI' aesthetic requested. However, it functions more as a hero banner or conceptual graphic rather than a full 'portfolio website design' layout. Additionally, the color palette includes vibrant pinks and purples, deviating from the strictly 'blue white' or 'white and light gray' themes requested.",
+      "file_name": "glassmorphism-ui-liquid-gradient-banner.jpg",
+      "caption": "A modern UI design banner featuring a central frosted glass card with text overlay, set against a backdrop of vibrant, wavy 3D liquid shapes in blue, purple, and pink gradients.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Clean minimalist personal resume website, white background, blue accents, professional typography, hero section with profile photo, UI design",
+    "image_info": {
+      "url": "https://i.pinimg.com/736x/21/35/bc/2135bc05d0778eafeaeb3c27eee39b26.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 70860,
+      "width": 736,
+      "height": 1041,
+      "total_pixels": 766176,
+      "basic_score": 0.8947331076322844,
+      "file_name": "minimalist-blue-white-resume-design-template.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image effectively showcases a minimalist resume design using the specified color palette of white, gray, and blue. The typography is professional and clean. While the layout resembles a print document more than a functional website interface (lacking navigation or web-specific UI elements), it aligns perfectly with the aesthetic description and content requirements.",
+      "file_name": "minimalist-blue-white-resume-design-template.jpg",
+      "caption": "A modern, minimalist resume template featuring a clean two-column layout. The design utilizes a soft blue and gray color scheme on a white background, with a circular profile photo in the header, clear typography for professional details, and organized sections for experience and skills.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Clean minimalist personal resume website, white background, blue accents, professional typography, hero section with profile photo, UI design",
+    "image_info": {
+      "url": "https://cdn.venngage.com/template/thumbnail/small/5a135742-7434-4ee9-b804-08f21fd53651.webp",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 67680,
+      "width": 640,
+      "height": 828,
+      "total_pixels": 529920,
+      "basic_score": 0.8641848795565452,
+      "file_name": "minimalist-blue-white-resume-cv-template.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 80.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image features a high-quality, professional resume layout that matches the 'minimalist', 'white', and 'blue' keywords perfectly. However, the design resembles a print-ready document or PDF template more than a typical 'website design' or 'UI' interface, as it lacks web navigation elements or a browser frame structure requested in the prompt.",
+      "file_name": "minimalist-blue-white-resume-cv-template.jpg",
+      "caption": "A professional two-column resume design featuring a dark blue left sidebar with a profile photo, about section, and skills, contrasting with a clean white main section listing experience and education details.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Clean minimalist personal resume website, white background, blue accents, professional typography, hero section with profile photo, UI design",
+    "image_info": {
+      "url": "https://static.vecteezy.com/system/resources/previews/045/548/227/non_2x/blue-white-minimalist-web-developer-resume-template-free-editor_template.jpeg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 83836,
+      "width": 757,
+      "height": 980,
+      "total_pixels": 741860,
+      "basic_score": 0.8944549905924887,
+      "file_name": "minimalist_blue_white_resume_template_design.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 70.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 75.0,
+      "explanation": "The image features a high-quality, crisp minimalist resume design that matches the requested color palette (white, blue, gray). However, it significantly deviates from the prompt by missing the requested 'hero section with profile photo'. Additionally, the layout resembles a printable document template rather than a web UI design (lacking navigation or browser framing).",
+      "file_name": "minimalist_blue_white_resume_template_design.jpg",
+      "caption": "A clean, minimalist resume layout design for a Web Developer, featuring a white background with slate blue typography and organized sections for Education, Skills, and Experience.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Swiss style typographic resume website, grid layout, bold typography, clean lines, white and blue minimalist design",
+    "image_info": {
+      "url": "https://i.pinimg.com/736x/77/70/70/777070a1ee6d38316d0b20e175e4f63b.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 80248,
+      "width": 736,
+      "height": 2085,
+      "total_pixels": 1534560,
+      "basic_score": 0.7675256686880384,
+      "file_name": "swiss-style-minimalist-typographic-resume-layout-pink.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly embodies the Swiss Style characteristics requested: bold typography, grid layout, clean lines, and minimalism suitable for a resume website. However, the color palette is blush pink and black, which deviates from the specific 'white and blue' instruction in the prompt.",
+      "file_name": "swiss-style-minimalist-typographic-resume-layout-pink.jpg",
+      "caption": "A minimalist website design layout featuring Swiss Style typography with large, bold sans-serif headers arranged on a strict grid against a soft blush pink background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Swiss style typographic resume website, grid layout, bold typography, clean lines, white and blue minimalist design",
+    "image_info": {
+      "url": "https://t3.ftcdn.net/jpg/04/80/40/86/360_F_480408671_zt6iKakQ5PPdQXzGWxGdKfsreey5KnJD.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 40140,
+      "width": 518,
+      "height": 360,
+      "total_pixels": 186480,
+      "basic_score": 0.7428903230673245,
+      "file_name": "swiss-style-typographic-resume-cv-mockup-orange.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 70.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 80.0,
+      "explanation": "The image strongly embodies the 'Swiss style' and 'minimalist' aspects of the query with excellent typographic hierarchy and grid usage. However, it misses the specific 'white and blue' color requirement (featuring orange instead) and depicts a print stationery mockup rather than a direct website interface.",
+      "file_name": "swiss-style-typographic-resume-cv-mockup-orange.jpg",
+      "caption": "A flat-lay mockup of a minimalist resume and cover letter design featuring Swiss-style typography, a structured grid layout, and bold headers on white paper against a vibrant orange background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "modern e-commerce website ui design minimal clean",
+    "image_info": {
+      "url": "https://cdn.dribbble.com/userupload/44359505/file/5f22dc2b55ab333d0c7b9b54077c0774.jpg?resize=752x&vertical=center",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 164614,
+      "width": 752,
+      "height": 564,
+      "total_pixels": 424128,
+      "basic_score": 0.8430315783530957,
+      "file_name": "modern-ecommerce-website-ui-design-mockup.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is an excellent representation of a modern, clean e-commerce UI design, matching the prompt perfectly. The layout is professional, utilizing effective whitespace and a contemporary color palette. The image quality is high, allowing for clear visibility of design elements, and there are no watermarks.",
+      "file_name": "modern-ecommerce-website-ui-design-mockup.jpg",
+      "caption": "A full-page user interface design mockup for a modern e-commerce website, featuring a clean layout with hero banners for furniture and fashion, a 'Weekly Best Deals' section with dark background contrast, and categorized product grids.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "modern e-commerce website ui design minimal clean",
+    "image_info": {
+      "url": "https://design4users.com/wp-content/uploads/2021/03/web-design-ecommerce.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 568666,
+      "width": 1000,
+      "height": 750,
+      "total_pixels": 750000,
+      "basic_score": 0.9370498910309852,
+      "file_name": "modern-ecommerce-ui-design-minimal-clean.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image is an excellent representation of a modern, minimal e-commerce UI. It features current design trends like bold typography, overlapping elements, and generous whitespace, matching the prompt perfectly. The resolution is high, making all text and UI components clear.",
+      "file_name": "modern-ecommerce-ui-design-minimal-clean.jpg",
+      "caption": "A modern and minimal e-commerce website interface design titled 'Ecstasy', featuring bold typography, a clean white background, floating product cards, and a stylish hero section with a male model.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "modern e-commerce website ui design minimal clean",
+    "image_info": {
+      "url": "https://pixel77.com/wp-content/uploads/2024/06/ecommerce-website-designs-1-1024x768.webp",
+      "img_format": "WEBP",
+      "mode": "RGBA",
+      "file_size": 91214,
+      "width": 1024,
+      "height": 768,
+      "total_pixels": 786432,
+      "basic_score": 0.9261464020422316,
+      "file_name": "modern-minimal-ecommerce-ui-design-mockup-dream-decor.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly illustrates a modern, minimal e-commerce UI design, aligning precisely with the search query and prompt. The layout is clean, the aesthetic is trendy (minimalist, earth tones), and the visual quality is high, making it an excellent reference for UI/UX design.",
+      "file_name": "modern-minimal-ecommerce-ui-design-mockup-dream-decor.jpg",
+      "caption": "A professional UI design mockup for a modern e-commerce website named 'Dream Decor,' featuring a minimalist layout with earth tones, clean typography, category grids for furniture and lighting, and sections for storytelling and newsletter signup.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "modern e-commerce website ui design minimal clean",
+    "image_info": {
+      "url": "https://design4users.com/wp-content/uploads/2021/03/web-design-ui.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 415017,
+      "width": 1000,
+      "height": 750,
+      "total_pixels": 750000,
+      "basic_score": 0.9287652199977041,
+      "file_name": "modern-ecommerce-ui-sneaker-product-page-yellow-gradient.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly matches the search query for a modern, minimal e-commerce UI. It features a trendy aesthetic with soft gradients (glassmorphism/neumorphism style), ample whitespace, and high-quality typography. The resolution is sharp, and there are no obstructive watermarks.",
+      "file_name": "modern-ecommerce-ui-sneaker-product-page-yellow-gradient.jpg",
+      "caption": "A high-fidelity user interface design for an e-commerce website product page, featuring a warm yellow and orange color palette, soft rounded corners, and a minimalist layout displaying sneaker details.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "modern e-commerce website ui design minimal clean",
+    "image_info": {
+      "url": "https://fireart.studio/wp-content/uploads/2022/02/exom-1-1024x714.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 73335,
+      "width": 1024,
+      "height": 714,
+      "total_pixels": 731136,
+      "basic_score": 0.9048267555844782,
+      "file_name": "modern-minimalist-ecommerce-ui-kit-design-system.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly matches the search query and prompt. It showcases a high-quality, modern, and minimalist e-commerce UI design system, complete with layout examples, typography, and color palettes. The visual style is clean and professional.",
+      "file_name": "modern-minimalist-ecommerce-ui-kit-design-system.jpg",
+      "caption": "A comprehensive UI design kit for a modern e-commerce website, featuring a clean layout with minimalist typography (Inter), a refined color palette, and interface components for products like photobooks and prints.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "professional asian female university student portrait white background",
+    "image_info": {
+      "url": "https://media.istockphoto.com/id/1450330487/photo/asian-female-tourist-student-on-city-streets.jpg?s=612x612&w=0&k=20&c=PtOl9cTyM11v8ycqj2T0Jesn7FyVUJ2C354cxxCfdf0=",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 42211,
+      "width": 612,
+      "height": 408,
+      "total_pixels": 249696,
+      "basic_score": 0.7685569908405727,
+      "file_name": "smiling-asian-student-outdoor-portrait-with-laptop.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 80.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is a high-quality, professionally composed portrait of an Asian female student that matches the subject matter perfectly. However, it deviates from the specific prompt requirement for a 'white background,' instead featuring a blurred outdoor urban setting.",
+      "file_name": "smiling-asian-student-outdoor-portrait-with-laptop.jpg",
+      "caption": "A waist-up portrait of a smiling young Asian woman standing on a brick city street. She is dressed as a student in denim overalls, a white t-shirt, glasses, and a blue beanie, carrying a grey laptop under her arm and a green backpack over her shoulder.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "professional asian female university student portrait white background",
+    "image_info": {
+      "url": "https://img.freepik.com/premium-photo/portrait-young-asian-female-student-smiling-looking-happy-cross-arms-chest-professional-confident-pose-white-background_176420-54640.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 32056,
+      "width": 626,
+      "height": 418,
+      "total_pixels": 261668,
+      "basic_score": 0.7714835057942306,
+      "file_name": "smiling-asian-female-student-orange-shirt-portrait.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 70.0,
+      "overall_score": 85.0,
+      "explanation": "The image perfectly matches the search query and prompt, featuring an Asian female subject in a student demographic against a clean white background. The lighting and focus are professional studio quality. However, the subject is wearing a casual t-shirt rather than business attire (which fits the 'student' aspect but is less formal), and there is a visible watermark in the bottom right corner.",
+      "file_name": "smiling-asian-female-student-orange-shirt-portrait.jpg",
+      "caption": "A professional studio portrait of a young Asian female student with long black hair, wearing a bright orange t-shirt, standing with arms crossed and smiling confidently against a plain white background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "professional asian female university student portrait white background",
+    "image_info": {
+      "url": "https://thumbs.dreamstime.com/b/smiling-asian-woman-glasses-looking-camera-headshot-portr-vision-correction-happy-friendly-chinese-student-employee-117908212.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 26897,
+      "width": 800,
+      "height": 534,
+      "total_pixels": 427200,
+      "basic_score": 0.8271307822143763,
+      "file_name": "professional-asian-female-student-glasses-portrait.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 40.0,
+      "overall_score": 75.0,
+      "explanation": "The image is an excellent visual match for the search query, featuring a young Asian woman in professional yet approachable attire (blazer) suitable for a university student context. The lighting and focus are professional quality. However, a visible stock photography watermark is present across the image, which restricts immediate use without licensing.",
+      "file_name": "professional-asian-female-student-glasses-portrait.jpg",
+      "caption": "Portrait of a smiling young Asian woman with glasses wearing a white blazer, looking confident and professional against a bright, blurred office-style background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "mobile banking app interface design modern clean blue",
+    "image_info": {
+      "url": "https://d1tzxux72fvryy.cloudfront.net/M87920126cb176d6696b42d7c0cba37a91714978424766/preview/M87920126cb176d6696b42d7c0cba37a91714978424766.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 187035,
+      "width": 1448,
+      "height": 975,
+      "total_pixels": 1411800,
+      "basic_score": 0.8936598229521548,
+      "file_name": "modern-blue-mobile-banking-app-ui-design.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is an exceptional match for the search query and prompt. It clearly showcases a high-fidelity, modern mobile banking interface with the specified blue color scheme and clean layout. The text and icons are sharp and legible, and there are no visible watermarks.",
+      "file_name": "modern-blue-mobile-banking-app-ui-design.jpg",
+      "caption": "Three screens of a modern mobile banking app UI design featuring a clean white layout with blue accents. The left screen shows a dashboard with a balance card and transaction history; the middle screen displays a 'Send Money' interface with quick contacts and service icons; the right screen features a payment input layout with a numeric keypad and a swipe-to-pay slider.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "mobile banking app interface design modern clean blue",
+    "image_info": {
+      "url": "https://d1tzxux72fvryy.cloudfront.net/Mfc7d6d48c9eb8f84af1f9711124094161726204655504/preview/Mfc7d6d48c9eb8f84af1f9711124094161726204655504.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 137984,
+      "width": 1474,
+      "height": 976,
+      "total_pixels": 1438624,
+      "basic_score": 0.8841311721198553,
+      "file_name": "modern-blue-mobile-banking-app-ui-mockup.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image serves as an excellent example of a modern mobile banking app UI. It perfectly satisfies the prompt's request for a 'clean' and 'blue' design, showcasing high-fidelity mockups of three essential user flows (Dashboard, Analytics, and Payments). The resolution is high, text is legible, and the composition is professional.",
+      "file_name": "modern-blue-mobile-banking-app-ui-mockup.jpg",
+      "caption": "A professional UI design mockup showing three screens of a modern mobile banking application. The left screen displays a 'Home' dashboard with a dark blue header, total balance, stacked virtual Visa cards, and recent transactions. The middle screen features an 'Activities' page with a bar chart tracking monthly spending and a transaction history list. The right screen illustrates a 'Payment' flow for a Spotify subscription, complete with a numeric keypad and a prominent 'Send' button.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "mobile banking app interface design modern clean blue",
+    "image_info": {
+      "url": "https://s3-alpha.figma.com/hub/file/3881404495/444efcbe-82e7-4d4c-a1dd-c9c689067349-cover.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 305172,
+      "width": 1424,
+      "height": 982,
+      "total_pixels": 1398368,
+      "basic_score": 0.9047006897457167,
+      "file_name": "modern-blue-mobile-banking-app-ui-design.jpg_a0"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a modern, clean mobile banking interface with a dominant blue color scheme. It presents three key screens (login, dashboard, and transaction details) in high resolution without any watermarks.",
+      "file_name": "modern-blue-mobile-banking-app-ui-design.jpg",
+      "caption": "Three smartphone screens displaying a concept for a modern mobile banking app UI. The design features a login screen with an illustration, a main dashboard with balance and transaction options, and a payment confirmation overlay, all adhering to a clean blue and white aesthetic.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "mobile banking app interface design modern clean blue",
+    "image_info": {
+      "url": "https://i0.wp.com/procreator.design/blog/wp-content/uploads/2024/11/Monzo-app-UI.png?resize=668%2C445&ssl=1",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 33847,
+      "width": 668,
+      "height": 445,
+      "total_pixels": 297260,
+      "basic_score": 0.7747192407282775,
+      "file_name": "monzo-mobile-banking-ui-design-blue.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly matches the search query and prompt. It showcases a real-world example of a modern, clean mobile banking interface (Monzo) on both iOS and Android devices. The blue background directly satisfies the color requirement in the prompt, and the UI elements are legible and well-composed.",
+      "file_name": "monzo-mobile-banking-ui-design-blue.jpg",
+      "caption": "Digital mockup of the Monzo mobile banking app user interface displayed on two smartphones against a solid blue background, showing account overviews and transaction history.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "mobile banking app interface design modern clean blue",
+    "image_info": {
+      "url": "https://cdn.dribbble.com/userupload/27179821/file/original-9dae0043a39c082c004d7a28e53f83f3.png?resize=752x&vertical=center",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 258122,
+      "width": 752,
+      "height": 564,
+      "total_pixels": 424128,
+      "basic_score": 0.8430154681532676,
+      "file_name": "modern-fintech-app-ui-design-mint-green.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is a high-quality, professional UI design mockup that perfectly matches the 'mobile banking app' and 'modern clean' criteria of the search query. However, the primary color scheme is mint green and yellow rather than the specific 'blue' requested in the prompt. Despite the color discrepancy, the visual fidelity and layout are excellent.",
+      "file_name": "modern-fintech-app-ui-design-mint-green.jpg",
+      "caption": "A mockup of a modern fintech mobile application interface featuring a clean layout with mint green and yellow accents. The design displays four screens including a currency conversion tool, a user profile with spending analytics graphs, and transaction details.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "university student portal dashboard ui design web",
+    "image_info": {
+      "url": "https://s3-alpha.figma.com/hub/file/4269963479/4983eff0-5165-4080-b8a6-5817f0372cd0-cover.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 558162,
+      "width": 1707,
+      "height": 960,
+      "total_pixels": 1638720,
+      "basic_score": 0.8619757386291407,
+      "file_name": "university-student-portal-dashboard-ui-purple-design.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is an excellent representation of a university student portal dashboard. It contains all relevant UI elements such as course listings, financial summaries, navigation, and notices. The design is modern, clean, and visually appealing with a consistent purple color scheme and high-quality 3D assets.",
+      "file_name": "university-student-portal-dashboard-ui-purple-design.jpg",
+      "caption": "A modern web interface design for a university student portal dashboard featuring a purple color palette, sidebar navigation, financial status cards, enrolled course modules, and a welcome banner with 3D character illustrations.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "university student portal dashboard ui design web",
+    "image_info": {
+      "url": "https://preview.redd.it/student-undergraduate-portal-v0-9b2a8r1ap3a91.png?width=640&crop=smart&auto=webp&s=f3beeab3221453978b32324c07ada348431d9ee4",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 25067,
+      "width": 640,
+      "height": 364,
+      "total_pixels": 232960,
+      "basic_score": 0.7490879114901026,
+      "file_name": "university-student-portal-dashboard-ui-design.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt. It displays a comprehensive, professionally designed user interface for a university student portal, featuring essential elements like lecture schedules, a calendar, and course listings. The layout is clean, modern, and high-resolution.",
+      "file_name": "university-student-portal-dashboard-ui-design.jpg",
+      "caption": "A clean and modern web dashboard UI design for a university student portal, featuring a sidebar navigation menu, a central section for ongoing and upcoming lectures with pastel color coding, and a right-hand column displaying a calendar and course status.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "university student portal dashboard ui design web",
+    "image_info": {
+      "url": "https://i.pinimg.com/474x/7a/28/e7/7a28e7a9a2440fd86b2ed7d8c35ccc91.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 24176,
+      "width": 474,
+      "height": 356,
+      "total_pixels": 168744,
+      "basic_score": 0.7340657456323163,
+      "file_name": "university-student-portal-dashboard-ui-design.jpg_89"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly matches the search query, displaying a comprehensive and well-structured university student dashboard. It includes relevant widgets like grades, financials, a calendar, and news. The visual design is clean and professional, though the date 'April 2015' indicates a slightly older design style.",
+      "file_name": "university-student-portal-dashboard-ui-design.jpg",
+      "caption": "A user interface design concept for a university student portal dashboard featuring sections for academic standing, current grades, tuition finances, university news, and an integrated calendar with a class schedule.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "university student portal dashboard ui design web",
+    "image_info": {
+      "url": "https://cdn.dribbble.com/userupload/17154627/file/original-444eb215abc1f61f1dbf9997fad57f3c.png?resize=752x&vertical=center",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 218388,
+      "width": 752,
+      "height": 423,
+      "total_pixels": 318096,
+      "basic_score": 0.80527565800171,
+      "file_name": "university-student-portal-dashboard-ui-design.jpg_ce"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is an excellent match for the search query, depicting a modern, clean dashboard specifically designed for a university student portal. It includes all relevant sections such as courses, grades, finance, and notices. The visual style is trendy, utilizing 3D illustrations and a professional blue color palette. While there are minor spelling errors in the mockup text ('Finanace', 'Intructors'), the visual quality and layout are high-standard.",
+      "file_name": "university-student-portal-dashboard-ui-design.jpg",
+      "caption": "A modern web dashboard UI design for a university student portal featuring sidebar navigation, course progress tracking, financial summaries, and a welcome banner with a 3D student illustration.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "university student portal dashboard ui design web",
+    "image_info": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/f3af8a179278369.64f7474d5feea.png",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 278695,
+      "width": 1400,
+      "height": 1336,
+      "total_pixels": 1870400,
+      "basic_score": 0.7698240613710301,
+      "file_name": "student-portal-ui-dashboard-design-figma.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 70.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image is extremely relevant, effectively showcasing a complete UI concept for a student portal including login, dashboard, and analytics screens. The composition is professional and modern. However, the resolution is somewhat low, causing the smaller text within the interface mockups to appear blurry and difficult to read.",
+      "file_name": "student-portal-ui-dashboard-design-figma.jpg",
+      "caption": "A presentation of a university student portal UI design featuring a login screen with flat illustrations and two dashboard views showing course lists and student performance statistics.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
