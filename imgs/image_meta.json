@@ -1,0 +1,80 @@
+[
+  {
+    "query": "A professional portrait photo for a CV/Resume website of a young Asian woman, clean background, professional attire, suitable for a designer/developer portfolio",
+    "image_info": {
+      "url": "https://media.istockphoto.com/id/639468298/photo/young-asian-businesswoman-smiling-to-camera-close-up.jpg?s=612x612&w=0&k=20&c=thCDYiq-4PLoCI18N9q6A4_RSO7Q1PE0l537WTimIFo=",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 28951,
+      "width": 612,
+      "height": 408,
+      "total_pixels": 249696,
+      "basic_score": 0.7665245526062857,
+      "file_name": "professional-asian-woman-portrait-modern-portfolio.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is an excellent match for the prompt, depicting a young Asian professional with a friendly, confident expression suitable for a CV or portfolio. While the lighting appears to be high-quality natural light rather than strict 'studio lighting,' the result is flattering and professional. The background is blurred and non-distracting, fitting the 'clean background' requirement well for a modern design context.",
+      "file_name": "professional-asian-woman-portrait-modern-portfolio.jpg",
+      "caption": "A professional portrait of a smiling young Asian woman with long highlighted hair, wearing a black sleeveless business-casual top, standing against a blurred modern architectural background with soft natural lighting.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A professional portrait photo for a CV/Resume website of a young Asian woman, clean background, professional attire, suitable for a designer/developer portfolio",
+    "image_info": {
+      "url": "https://media.istockphoto.com/id/1492329979/photo/portrait-of-young-beautiful-and-successful-asian-business-woman-female-employee-smiling-and.jpg?s=612x612&w=0&k=20&c=Ycf8vUnTbKO7Rk4m2nt8sN5rHxD0Lkt9UW22F-TiwKA=",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 29702,
+      "width": 612,
+      "height": 408,
+      "total_pixels": 249696,
+      "basic_score": 0.7666402320014359,
+      "file_name": "professional-asian-woman-creative-portrait.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image aligns excellently with the prompt. The subject projects a friendly yet professional demeanor suitable for a designer or developer portfolio. The smart-casual attire (rust-colored shirt) works better than a formal suit for creative roles. The lighting is soft and flattering, and the background provides context without distraction.",
+      "file_name": "professional-asian-woman-creative-portrait.jpg",
+      "caption": "A professional medium shot of a smiling Asian woman with arms crossed, wearing a rust-colored blouse, standing in a modern office environment with a blurred background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A professional portrait photo for a CV/Resume website of a young Asian woman, clean background, professional attire, suitable for a designer/developer portfolio",
+    "image_info": {
+      "url": "https://img.freepik.com/free-photo/confident-attractive-asian-businesswoman-looking-camera-head-shot-portrait_1163-4734.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 28243,
+      "width": 626,
+      "height": 417,
+      "total_pixels": 261042,
+      "basic_score": 0.7706689666859441,
+      "file_name": "professional-asian-woman-headshot-white-blazer.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image aligns perfectly with the search query and prompt. It features a professional-looking Asian woman in business casual attire suitable for a CV or portfolio. The lighting is soft and flattering, effectively illuminating the subject while maintaining a clean, blurred background that minimizes distractions. There are no visible watermarks.",
+      "file_name": "professional-asian-woman-headshot-white-blazer.jpg",
+      "caption": "A professional portrait of a young Asian woman in a white blazer and black top, posing with a neutral expression against a soft-focus office background featuring a green plant.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
